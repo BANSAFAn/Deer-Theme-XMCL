@@ -1,0 +1,51 @@
+{
+  "name": "default",
+  "ui": "keystone",
+  "version": 0,
+  "assets": {
+    "backgroundImage": {
+      "url": "http://launcher/theme-media/TVアニメ「しかのこのこのここしたんたん」ノンクレジットオープニング映像『シカ色デイズ』.mp4",
+      "type": "video",
+      "mimeType": "video/mp4"
+    },
+    "backgroundMusic": [],
+    "font": {
+      "url": "http://launcher/theme-media/A.Bedrock.Alen_.Rus_.ttf",
+      "type": "font",
+      "mimeType": "font/ttf"
+    }
+  },
+  "colors": {
+    "lightAppBarColor": "#e0e0e0FF",
+    "lightSideBarColor": "#FFFFFFFF",
+    "darkAppBarColor": "#F4433600",
+    "darkSideBarColor": "#F4433600",
+    "darkPrimaryColor": "#F44336",
+    "darkBackground": "#0000007D",
+    "darkInfoColor": "#2196F3",
+    "darkErrorColor": "#FF5252",
+    "darkWarningColor": "#FB8C00",
+    "darkSuccessColor": "#4CAF50",
+    "darkAccentColor": "#00e676",
+    "darkCardColor": "#F4433600",
+    "lightPrimaryColor": "#1976D2",
+    "lightBackground": "#FFFFFFFF",
+    "lightInfoColor": "#2196F3",
+    "lightErrorColor": "#FF5252",
+    "lightWarningColor": "#FB8C00",
+    "lightSuccessColor": "#4CAF50",
+    "lightAccentColor": "#82B1FF",
+    "lightCardColor": "#e0e0e080"
+  },
+  "settings": {
+    "backgroundType": "video",
+    "backgroundImageFit": "cover",
+    "backgroundMusicPlayOrder": "sequential",
+    "backgroundVolume": 0.23,
+    "blur": 12,
+    "blurSidebar": 20,
+    "blurAppBar": 20,
+    "backgroundColorOverlay": true,
+    "dark": true
+  }
+}
